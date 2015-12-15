@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferencesTutorial</string>
+    <string name="name_hint">Name</string>
+    <string name="age_hint">Age</string>
+    <string name="save_shared_preferences">Save (Shared Preferences)</string>
+    <string name="restore_shared_preferences">Restore (Shared Preferences)</string>
+    <string name="save_def_shared_preferences">Save (Default Shared Preferences)</string>
+    <string name="restore_def_shared_preferences">Restore (Default Shared Preferences)</string>
+</resources>
