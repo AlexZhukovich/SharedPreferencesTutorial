@@ -27,7 +27,8 @@
             android:id="@+id/age_editText"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:hint="@string/age_hint"/>
+            android:hint="@string/age_hint"
+            android:inputType="numberSigned" />
     </android.support.design.widget.TextInputLayout>
 
     <Button
